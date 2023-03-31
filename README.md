@@ -1,2 +1,2 @@
 # Self-Learning: Basic ETL Using Alteryx
-This project is about 
+Project description: This project is mainly focus on using Alteryx Designer for basic ETL tasks.
